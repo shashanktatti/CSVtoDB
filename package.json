@@ -1,0 +1,12 @@
+{
+  "name": "csvtodb",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node csvtodb.js"
+  },
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "mongodb": "^2.2.10"
+  }
+}
